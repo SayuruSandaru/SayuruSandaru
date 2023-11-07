@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sayuru sandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayuru sandaru" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sayuru-sandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sayuru-sandaru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayuru-sandaru-439814203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayuru-sandaru-439814203" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8918202/sayuru-sandaru?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sayuru-sandaru" height="30" width="40" /></a>
 <a href="https://medium.com/@sayurusadaru12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayurusadaru12" height="30" width="40" /></a>
 </p>
 
