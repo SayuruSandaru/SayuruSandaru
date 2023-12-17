@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayurusandaru&label=Profile%20views&color=0e75b6&style=flat" alt="sayurusandaru" /> </p>
 
-- 🌱 I’m currently learning **node js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SayuruSandaru](https://github.com/SayuruSandaru)
 
-- 📝 I regularly write articles on [https://medium.com/@sayurusadaru12](https://medium.com/@sayurusadaru12)
+- 📝 I write articles on [https://medium.com/@sayurusadaru12](https://medium.com/@sayurusadaru12)
 
-- 💬 Ask me about **dart, flutter, python**
-
-- 📫 How to reach me **sayurusadaru12@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
